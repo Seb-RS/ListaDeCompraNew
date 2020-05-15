@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ListaDeCompra</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--<string name="crear_lista_de_compra">Crear Lista de Compra</string>
+      <string name="radiobutton">RadioButton</string>
+     <string name="radiobutton">RadioButton</string>
+     <string name="radiobutton">RadioButton</string>
+     <string name="radiobutton">RadioButton</string>-->
+    <string name="aceite_1l_700">Aceite 1L - $700</string>
+    <string name="arroz_1kg_1000">Arroz 1Kg - $1000</string>
+    <string name="at_n_200g_600">Atún 200g - $600</string>
+    <string name="fideos_320g_600">Fideos 320g - $600</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="at_n">Atún</string>
+    <string name="harina_1kg_800">Harina 1Kg - $800</string>
+    <string name="compra_productos">Compra productos</string>
+    <string name="sebastian_rios3_alumno_cst">sebastian.rios3@alumno.cst</string>
+    <string name="lista_de_compras">Lista de Compras</string>
+    <string name="inicio">Inicio</string>
+    <string name="total_0">Total: 0</string>
+    <string name="crear_lista_de_compra">Crear Lista de Compra</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/CrearListaCompras"
+            android:icon="@drawable/ic_comercio_y_compras"
+            android:title="@string/crear_lista_de_compra" />
+        <item
+            android:id="@+id/listarCompra"
+            android:icon="@drawable/ic_interfaz"
+            android:title="@string/lista_de_compras" />
+        <!-- <item
+             android:id="@+id/nav_slideshow"
+             android:icon="@drawable/ic_menu_slideshow"
+             android:title="@string/menu_slideshow" />
+        -->
+     </group>
+ </menu>
